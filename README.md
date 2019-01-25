@@ -1,2 +1,2 @@
 # 15puzzle
-bash's 15 puzzles
+bash's 15 puzzle
